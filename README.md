@@ -46,3 +46,5 @@ git branch -M main | git branch -M master
 git push -u origin main | git push -u origin master
 git push --all
 
+git ls-remote
+git show-branch -r
