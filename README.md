@@ -46,5 +46,8 @@ git branch -M main | git branch -M master
 git push -u origin main | git push -u origin master
 git push --all
 
+git reset --hard $SHA1
+git push origin -f
+
 git ls-remote
 git show-branch -r
