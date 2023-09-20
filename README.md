@@ -4,7 +4,7 @@ git config --global user.name "My Name"
 
 git config --global user.email myemail@xyz.com
 
-git config --global init.default branch main
+git config --global init.defaultBranch main
 
 git config -h
 git help config
