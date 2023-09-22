@@ -6,6 +6,8 @@ git config --global user.email myemail@xyz.com
 
 git config --global init.defaultBranch main
 
+git config --list
+
 git config -h
 git help config
 
