@@ -53,3 +53,6 @@ git push origin -f
 
 git ls-remote
 git show-branch -r
+
+git config --global http.postBuffer 157286400
+
